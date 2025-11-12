@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Jack Maclay
+## I'm Jack Maclay
 
-Welcome to my GitHub profile! I’m a final-year Aerospace Engineering student at the University of Manchester, currently building a **motorised calibration rig for five-hole pressure probes** as part of my dissertation.
+Welcome to my GitHub profile! I’m an Aerospace Engineering graduate from the University of Manchester. 
 
 ---
 
-### 🔬 Current Project
+### 🔬 Recnt Project
 - 🎯 **Dissertation:** Developing a dual-axis calibration system for aerodynamic probes  
 - 🛠️ **Tech Stack:**  
   - **Hardware:** Arduino, Raspberry Pi, Stepper Motors  
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I’m a final-year Aerospace Engineering student a
 ---
 
 ### 🤝 Collaboration & Contact
-- 💬 Always open to discussing projects involving sensors, microcontrollers, or other aero sunjects!  
+- 💬 Always open to discussing projects involving sensors, microcontrollers, or other aero subjects!  
 - 📫 Reach me at **jack@oldfelcourt.com** or connect via [LinkedIn](https://www.linkedin.com/in/jackmaclay/)  
 - 🧠 Portfolio and technical writing samples available upon request
 
