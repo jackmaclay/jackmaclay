@@ -1,33 +1,24 @@
-## I'm Jack Maclay
+## Hi, I'm Jack Maclay
 
-Welcome to my GitHub profile! I’m an Aerospace Engineering graduate from the University of Manchester. 
+I studied Aerospace Engineering at the University of Manchester. My dissertation was a dual-axis calibration rig for aerodynamic probes, built with Arduino, stepper motors, CircuitPython, MATLAB and LabVIEW. Since then I've moved into software and I build on my own.
 
----
+Write-ups and demos are at **[jdmm.dev](https://jdmm.dev)**.
 
-### 🔬 Recnt Project
-- 🎯 **Dissertation:** Developing a dual-axis calibration system for aerodynamic probes  
-- 🛠️ **Tech Stack:**  
-  - **Hardware:** Arduino, Raspberry Pi, Stepper Motors  
-  - **Software:** CircuitPython, MATLAB, LabVIEW  
-  - **CAD & Simulation:** SolidWorks, Fusion 360
-- 📐 **Focus:** High-precision pitch and yaw control, real-time data acquisition, and automated control logic for probe calibration
+### What I've made
 
----
+**Wildpack.** A mobile app that turns a trip with friends into a printed deck of cards, each with a photo, scores and a short blurb. It's the project I've put the most into. React Native, Firebase and Stripe, with my own code laying out the printed albums.
 
-### 🌱 Learning & Interests
-- Embedded systems and hardware integration  
-- Control theory & motion kinematics  
-- Data visualisation and DAQ system design  
-- Applying engineering design in aerospace environments
+**SCAFLD.** Freelance software for a drone data-collection programme. It plans the flying, files the footage and keeps the safety record, so none of it is done by hand.
 
----
+**Polybot.** A study of 151 million Polymarket trades, looking for traders with a real information edge. I found traders with a real edge, and they kept winning on data the scoring had never seen. Copying them live is the next problem.
 
-### 🤝 Collaboration & Contact
-- 💬 Always open to discussing projects involving sensors, microcontrollers, or other aero subjects!  
-- 📫 Reach me at **jack@oldfelcourt.com** or connect via [LinkedIn](https://www.linkedin.com/in/jackmaclay/)  
-- 🧠 Portfolio and technical writing samples available upon request
+**Pixelway.** A self-hosted dropshipping store I built from scratch to see if I could write the software behind Shopify and the like. Early days.
 
----
+**Smaller things.** Hitlist, a party game for iPhone. SLDL Downloader, the groundwork for an iPod companion app for people moving away from streaming. Audible Sleep Timer, a Mac script for falling asleep to an audiobook.
 
-### ⚡ Fun Fact
+### Contact
+
+- jack@oldfelcourt.com
+- [LinkedIn](https://www.linkedin.com/in/jackmaclay/)
+
 I live and breathe music. Soul in the sound, clarity in the silence.
