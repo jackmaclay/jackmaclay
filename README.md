@@ -20,4 +20,4 @@ Write-ups and demos are at **[jdmm.dev](https://jdmm.dev)**.
 
 - [LinkedIn](https://www.linkedin.com/in/jackmaclay/)
 
-I live and breathe music. Soul in the sound, clarity in the silence.
+I live and breathe music.
